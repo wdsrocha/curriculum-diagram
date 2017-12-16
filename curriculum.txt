@@ -1,0 +1,62 @@
+Série: 1 - 1º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP001 - Introdução a Computação		
+ESTCMP009 - Introdução a Programação de Computadores		
+ESTCMP028 - Matemática Básica		
+ESTCMP050 - Computação, Ética, Homem e Sociedade		
+ESTBAS004 - Introdução às Ciências do Ambiente		
+ESTBAS011 - Introdução à Administração		
+ESTBAS017 - Introdução à Economia		
+Série: 2 - 2º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP002 - Organização e Arquitetura de Computadores	ESTCMP001	
+ESTCMP010 - Programação de Computadores e Algoritmos	ESTCMP009	
+ESTCMP029 - Matemática Discreta	ESTCMP028	
+ESTCMP060 - Laboratório de Programação de Computadores I	ESTCMP009	
+ESTCMP100 - Fundamentos de Sistemas de Informação	ESTCMP001	
+ESTBAS001 - Álgebra Linear I	ESTCMP028	
+ESTBAS002 - Cálculo I	ESTCMP028	
+Série: 3 - 3º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP007 - Sistemas Operacionais I	ESTCMP001	
+ESTCMP011 - Algoritmos e Estrutura de Dados I	ESTCMP010	
+ESTCMP021 - Projeto de Programas	ESTCMP010	
+ESTCMP030 - Fundamentos Teóricos da Computação	ESTCMP029	
+ESTCMP034 - Empreendedorismo Digital I	ESTBAS011 E ESTBAS017	
+ESTBAS050 - Probabilidade e Estatística	ESTBAS002	
+Série: 4 - 4º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP005 - Paradigmas de Linguagens de Programação	ESTCMP011	
+ESTCMP012 - Algoritmos e Estrutura de Dados II	ESTCMP011	
+ESTCMP016 - Redes de Computadores I	ESTCMP007	
+ESTCMP022 - Banco de Dados I	ESTCMP011	
+ESTCMP024 - Modelagem e Projeto de Sistemas 	ESTCMP021	
+ESTCMP035 - Empreendedorismo Digital II	ESTCMP034	
+Série: 5 - 5º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP013 - Projeto e Análise de Algoritmos	ESTCMP012	
+ESTCMP020 - Sistemas Paralelos e Distribuidos	ESTCMP016	
+ESTCMP023 - Banco de Dados II	ESTCMP022	
+ESTCMP025 - Engenharia de Software	ESTCMP024	
+ESTCMP027 - Interação Homem - Computador	ESTCMP024	
+ESTCMP101 - Governança de Tecnologia da Informação e Comunicação	ESTCMP100	
+Série: 6 - 6º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP018 - Segurança de Informação I	ESTCMP016	
+ESTCMP026 - Tópicos Especiais em Engenharia de Software	ESTCMP024	
+ESTCMP031 - Inteligência Artificial I	ESTCMP030	
+ESTCMP038 - Sistemas Integrados de Hardware e Software I	ESTCMP016	
+ESTCMP051 - Metodologia Ciêntifica para Computação	ESTCMP050	
+ESTCMP064 - Oficina de Desenvolvimento de Sistemas I	ESTCMP024	
+Série: 7 - 7º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP052 - Trabalho de Conclusão de Curso I	ESTCMP018 E ESTCMP026 E ESTCMP031 E ESTCMP038 E ESTCMP051 E ESTCMP064	
+ESTCMP065 - Oficina de Desenvolvimento de Sistemas II	ESTCMP064	
+ESTCMP068 - Tópicos Especiais para Computação I	ESTCMP051	
+ESTCMP080 - Estágio Supervisionado em Sistemas de Informação I	ESTCMP018 E ESTCMP026 E ESTCMP031 E ESTCMP038 E ESTCMP051 E ESTCMP064	
+Série: 8 - 8º PERÍODO
+Disciplina 	Fórmula Pré-Requisito 	Fórmula Equivalência
+ESTCMP053 - Trabalho de Conclusão de Curso II	ESTCMP052	
+ESTCMP066 - Oficina de Desenvolvimento de Sistemas III	ESTCMP065	
+ESTCMP069 - Tópicos Especiais para Computação II	ESTCMP051	
+ESTCMP081 - Estágio Supervisionado em Sistemas de Informação II	ESTCMP080
