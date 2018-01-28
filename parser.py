@@ -1,14 +1,19 @@
 # coding=utf8
 
+from course import Course
 import re
 
-raw_curriculum = open("./curriculum.txt")
-regex_course = r"^([A-Z]+\d+) - ([^\t\n]+)\t?([^\n]*)$"
-regex_semester = r"^Série: (\d) - \1º PERÍODO$"
-for line in raw_curriculum:
-    matches = re.finditer(regex_course, line)
-    for match in matches:
-        print("Código: {}".format(match.group(1)))
-        print("Nome: {}".format(match.group(2)))
-        print("Pré-requesito(s): {}".format(match.group(3)))
-        print()
+if __name__ == '__main__':
+    semesters = [[]]
+    raw_curriculum = open("./curriculum.txt")
+    regex_course = r"^([A-Z]+\d+) - ([^\t\n]+)\t?([^\n]*)\t?([^\n]*)$"
+    for line in raw_curriculum:
+        m = re.match(regex_course, line)
+        if m:
+            semesters[-1].append(Course(
+                m[1], m[2], m[3], m[4]
+            ))
+            print(semesters[-1][-1].displayData())
+            print()
+        elif semesters[-1] != []:
+            semesters.append([])
